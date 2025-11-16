@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanmita13742/leetcode_tracker/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanmita13742/leetcode_tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0303-range-sum-query-immutable](https://github.com/sanmita13742/leetcode_tracker/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanmita13742/leetcode_tracker/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sanmita13742/leetcode_tracker/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sanmita13742/leetcode_tracker/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
