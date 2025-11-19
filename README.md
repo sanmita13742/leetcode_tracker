@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanmita13742/leetcode_tracker/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sanmita13742/leetcode_tracker/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanmita13742/leetcode_tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/sanmita13742/leetcode_tracker/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sanmita13742/leetcode_tracker/tree/master/0303-range-sum-query-immutable) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanmita13742/leetcode_tracker/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanmita13742/leetcode_tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Tree
 |  |
@@ -109,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sanmita13742/leetcode_tracker/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/sanmita13742/leetcode_tracker/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
