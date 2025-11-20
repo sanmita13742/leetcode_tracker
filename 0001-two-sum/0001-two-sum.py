@@ -5,8 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        pair = {}
-        for i, num in enumerate(nums):
-            if  target - num in pair:
-                return [i,pair[target-num]]
-            pair[num] = i
+        isthere = {}
+        for i in range(len(nums)):
+            if target - nums[i] in isthere:
+                return [i,isthere[target-nums[i]]]
+            else:
+                isthere[nums[i]] = i 
+        
