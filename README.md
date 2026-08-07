@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanmita13742/leetcode_tracker/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanmita13742/leetcode_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/sanmita13742/leetcode_tracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/sanmita13742/leetcode_tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanmita13742/leetcode_tracker/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanmita13742/leetcode_tracker/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/sanmita13742/leetcode_tracker/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
