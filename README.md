@@ -139,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanmita13742/leetcode_tracker/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sanmita13742/leetcode_tracker/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanmita13742/leetcode_tracker/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/sanmita13742/leetcode_tracker/tree/master/0138-copy-list-with-random-pointer) |
 ## Stack
 |  |
@@ -152,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanmita13742/leetcode_tracker/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanmita13742/leetcode_tracker/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanmita13742/leetcode_tracker/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanmita13742/leetcode_tracker/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
